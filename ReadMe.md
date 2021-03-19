@@ -1,6 +1,5 @@
 
-# Title
-ReadMe Generator
+# ReadMe Generator
 
 ## Table of Contents
 
@@ -49,7 +48,9 @@ If you can read this, this was generated using my generator. Any edits will be m
   
 ## Questions
 
-If you have any questions about this project, or happen to use this project, please reach out to me! 
+If you have any questions about this project, or happen to use this project, please reach out to me!
+Email: emacartoon@gmail.com
+GitHub: @EmaCartoon
 
 
 ## Credits
