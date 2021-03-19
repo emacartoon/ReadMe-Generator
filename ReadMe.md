@@ -1,6 +1,6 @@
 
 # Title
-C
+ReadMe Generator
 
 ## Table of Contents
 
@@ -21,8 +21,8 @@ C
   
 ## Links
 
-* D
-* E
+* https://github.com/emacartoon/ReadMe-Generator
+* https://emacartoon.github.io/ReadMe-Generator/
   
 ## Installation Instructions
 
@@ -32,17 +32,17 @@ npm i
 
 ## My Usage
 
-F
+Run this script when you'd like to generate a consistent already-formatted ReadMe for your GitHub repositories.
   
 ## Technology Used
 
-
+JavaScript
   
 
   
 ## Tests
 
-G
+If you can read this, this was generated using my generator. Any edits will be mentioned below.
   
 ## Mockups and Screenshots
   
@@ -54,6 +54,5 @@ If you have any questions about this project, or happen to use this project, ple
 
 ## Credits
 
-H
+Unicorn Zero, Mark, Clark, Nick, Tucker
 
-# ReadMe-Generator
