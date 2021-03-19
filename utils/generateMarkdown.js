@@ -32,7 +32,7 @@ return `
   
 ## License
 
-* ${generateBadges.license}
+* ${generateBadges(objData.license)}
   
 ## Links
 
@@ -41,6 +41,7 @@ return `
   
 ## Installation Instructions
 
+To initialize, type the following commands into your Terminal:
 \`\`\`
 ${objData.installa}
 \`\`\`

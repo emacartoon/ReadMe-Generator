@@ -16,12 +16,12 @@
   
 ## License
 
-* undefined
+* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Links
 
 * https://github.com/emacartoon/ReadMe-Generator
-* https://emacartoon.github.io/ReadMe-Generator/
+* https://emacartoon.github.io/ReadMe-Generator
   
 ## Installation Instructions
 
@@ -55,5 +55,5 @@ GitHub: @EmaCartoon
 
 ## Credits
 
-Unicorn Zero, Mark, Clark, Nick, Tucker
+@unicornzero helped me find a missing apostraphe, Mark Columbus inspired the badge generator, and super shout outs to our TAs Clark and  Nick, and our instructor Tucker
 
