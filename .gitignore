@@ -1,0 +1,7 @@
+node_modules/
+
+Sandbox/
+
+package-lock.json
+.vscode
+.DS_Store
