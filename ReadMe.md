@@ -22,7 +22,7 @@
  
 * Github Repository: https://github.com/emacartoon/ReadMe-Generator
 * Github Page: https://emacartoon.github.io/ReadMe-Generator
-* Video Walkthrough: https://drive.google.com/file/d/1AYRkMmf-2ZPRl9xjR3aQDHsSiDWSXilN/view
+* Video Walk-through: https://drive.google.com/file/d/1AYRkMmf-2ZPRl9xjR3aQDHsSiDWSXilN/view
   
 ## Installation Instructions
  
