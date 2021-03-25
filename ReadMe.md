@@ -20,14 +20,24 @@
   
 ## Links
 
-* https://github.com/emacartoon/ReadMe-Generator
-* https://emacartoon.github.io/ReadMe-Generator
+* Github Repository: https://github.com/emacartoon/ReadMe-Generator
+* Github Page: https://emacartoon.github.io/ReadMe-Generator
+* Video Walkthrough: TBD
   
 ## Installation Instructions
+
+After you clone down your repo, you will need to install Node.js in your environment. This should be easily achieved with:
 
 ```
 npm i
 ```
+
+To run the generator, use Node to run the index script:
+```
+node index.js
+```
+
+Follow the prompts in your Terminal, and a ReadMe.md file will be created in your main folder.
 
 ## My Usage
 
